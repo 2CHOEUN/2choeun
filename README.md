@@ -48,18 +48,24 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2CHOEUN&count_bg=%2384836D&title_bg=%23000000&icon=iconify.svg&icon_color=%23FFFFFF&title=cho&edge_flat=false)](https://hits.seeyoufarm.com)
  
  </div>
+<br><br><br>
+<div align=center>
 
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&color=FFFD86&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&width=435&lines=He+who+laughs%2C+lasts!+(%5E%E2%96%BD%5E))](https://git.io/typing-svg)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2choeun&layout=demo&theme=onedark)
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1000&color=FFFD86&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&width=435&lines=He+who+laughs%2C+lasts!+(%5E%E2%96%BD%5E))](https://git.io/typing-svg)
- 
 
- ![Choeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2choeun&show_icons=true&theme=radical)
+
+</div>
+
+
+<div align=center>
+
+
+ ![Choeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2choeun&show_icons=true&theme=radical)&nbsp;&nbsp;
  [![ GitHub Streak ](https://streak-stats.demolab.com?user=2choeun&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
- 
+ </div>
 
  
-
 
 
  
