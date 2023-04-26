@@ -1,8 +1,13 @@
 
 
- ![ 흔드는 ](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&height=200&text=✨LEE&nbsp;CHO&nbsp;EUN✨&fontAlignY=40&color=gradient&animation=blinking)
 
-<div align=center>
+ ![ 흔드는 ](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&height=200&text=✨Hi&nbsp;there,&nbsp;I'm&nbsp;Choeun.✨&fontAlignY=40&fontSize=40&color=gradient&animation=blinking)
+ 
+ <div align=center>
+
+
+
+ 
  
   <h2>📚 STACKS</h2>
 
@@ -41,12 +46,20 @@ Here are some ideas to get you started:
 <div align=center>
  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2CHOEUN&count_bg=%2384836D&title_bg=%23000000&icon=iconify.svg&icon_color=%23FFFFFF&title=cho&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
  </div>
 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2choeun&layout=demo&theme=onedark)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1000&color=FFFD86&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&width=435&lines=He+who+laughs%2C+lasts!+(%5E%E2%96%BD%5E))](https://git.io/typing-svg)
  
+
  ![Choeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2choeun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2choeun&layout=demo&theme=onedark)
-[![ GitHub Streak ](https://streak-stats.demolab.com?user=2choeun&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+ [![ GitHub Streak ](https://streak-stats.demolab.com?user=2choeun&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+ 
+
+ 
+
 
 
  
@@ -54,6 +67,6 @@ Here are some ideas to get you started:
 
 
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK&nbsp;YOU&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK&nbsp;YOU&fontColor=ffffff&fontSize=40)
 
 
