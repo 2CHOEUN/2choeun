@@ -38,22 +38,17 @@ Here are some ideas to get you started:
   </div>
   <hr>
   
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2CHOEUN&count_bg=%2384836D&title_bg=%23000000&icon=iconify.svg&icon_color=%23FFFFFF&title=cho&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=center>
  
- <div align="left"> 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2CHOEUN&count_bg=%2384836D&title_bg=%23000000&icon=iconify.svg&icon_color=%23FFFFFF&title=cho&edge_flat=false)](https://hits.seeyoufarm.com)
+ </div>
 
+ 
  ![Choeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2choeun&show_icons=true&theme=radical)
-
-   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2choeun&layout=demo&theme=onedark)
 [![ GitHub Streak ](https://streak-stats.demolab.com?user=2choeun&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
- </div>
- <div align="right">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2choeun&layout=demo&theme=onedark)
-  
- </div>
+
  
   [![초은's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=2choeun&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -61,4 +56,4 @@ Here are some ideas to get you started:
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK&nbsp;YOU&fontColor=ffffff)
 
- </div>
+
