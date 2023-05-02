@@ -49,6 +49,8 @@ Here are some ideas to get you started:
  
  </div>
 <br><br><br>
+
+<!--
 <div align=center>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&color=FFFD86&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&width=435&lines=He+who+laughs%2C+lasts!+(%5E%E2%96%BD%5E))](https://git.io/typing-svg)
@@ -62,10 +64,12 @@ Here are some ideas to get you started:
 
 
  ![Choeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2choeun&show_icons=true&theme=radical)&nbsp;&nbsp;
+ -->
+ 
  [![ GitHub Streak ](https://streak-stats.demolab.com?user=2choeun&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
  </div>
 
- 
+
 
 
  
