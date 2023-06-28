@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -52,23 +51,28 @@ Here are some ideas to get you started:
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&color=FFFD86&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&width=435&lines=He+who+laughs%2C+lasts!+(%5E%E2%96%BD%5E))](https://git.io/typing-svg)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2choeun&layout=demo&theme=onedark)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2choeun&langs_count=8&theme=onedark)](https://github.com/2choeun/github-readme-stats)
 
 </div>
 
 
 <div align=center>
- 
+ <!--
  ![Choeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2choeun&show_icons=true&theme=radical)&nbsp;&nbsp;
- 
+-->
+
  [![ GitHub Streak ](https://streak-stats.demolab.com?user=2choeun&theme=algolia&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+ 
  </div>
 
 
 
 
  
-  [![초은's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=2choeun&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--  [![초은's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=2choeun&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 
   
